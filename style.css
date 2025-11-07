@@ -6,3 +6,7 @@ color:grey;
 display: flex;
 justify-content: space-between;
 }
+.card{
+    background-color: gray;
+    border-radius: 10px;
+}
